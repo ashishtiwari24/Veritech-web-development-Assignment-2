@@ -1,0 +1,31 @@
+.logo{
+   margin-left: 20px;
+}
+
+.navbar{
+    background-color:#E3D8D6 ;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+
+}
+.navbar a{
+    text-align: center;
+    padding:10px ;
+    text-decoration: none;
+    color: black;
+    
+}
+.navbar a:hover{
+    color:black ;
+    background-color: #f7beb4;
+
+}
+.intro{
+    text-align: center;
+    font:message-box;
+    font-size: larger;
+}
